@@ -88,6 +88,7 @@ internal let mimeTypes = [
     "msi": "application/octet-stream",
     "msp": "application/octet-stream",
     "msm": "application/octet-stream",
+    "mobileconfig": "application/x-apple-aspen-config",
     "docx": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
     "xlsx": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
     "pptx": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
